@@ -31,8 +31,3 @@ Weapon model should remain clearly visible against the ground surface.
 
 ## Actual result
 Weapon visually blends with the ground texture.
-
-## Attachments
-screenshots/weapon-ground-contrast.png
-screenshots/map-texture-contrast.png
-screenshots/environment-visibility.png
