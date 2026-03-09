@@ -1,7 +1,7 @@
 # Test Summary – Krunker.io
 
 Tester: Petr Dobias  
-Platform: Browser (Google Chrome)  
+Platform: Browser (Brave)  
 Game type: Browser FPS multiplayer
 
 ## Scope of testing
