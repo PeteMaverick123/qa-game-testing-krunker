@@ -32,3 +32,13 @@ Two issues were identified during testing:
 
 1. Browser tab crash during gameplay
 2. Low visual contrast between weapon model and ground textures
+
+## Screenshots
+
+Gameplay testing examples
+
+![Gameplay](screenshots/screenshot1.png)
+
+![Gameplay](screenshots/screenshot2.png)
+
+![Gameplay](screenshots/screenshot3.png)
